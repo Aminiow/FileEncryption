@@ -105,9 +105,9 @@ FileEncryption/
 ├── App/
 │   ├── helper.py        # File generator script
 │   ├── main.py          # Encrypt/decrypt script
+│   ├── requirements.txt # Dependencies
 │   └── Files/           # (Optional) folder to store generated files
 │
-├── requirements.txt     # Dependencies
 ├── .gitignore
 ├── LICENSE
 └── README.md
